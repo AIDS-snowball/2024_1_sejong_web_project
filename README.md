@@ -280,13 +280,18 @@ This project aims to enhance the existing Sejong University Jiphyeon Campus web 
 
 #### Logos
 
-|                                   |                                      |                                      |
-| :--------------------------------: | :----------------------------------: | :----------------------------------: |
-| Year of the Blue Dragon  |  ![image](https://github.com/user-attachments/assets/50814ae5-93ed-4fbb-b654-5a555594c946)        |  Start of Semester  | ![image](https://github.com/user-attachments/assets/3dcc77bc-e824-40e3-a82a-15e274c49aa4)     |  Seollal (Lunar New Year)  | ![image](https://github.com/user-attachments/assets/ec3a404b-a8b0-4ec0-b71a-65013e187f79)      |
-| March 1st Movement Day | ![image](https://github.com/user-attachments/assets/7915edfd-3fd9-46a9-b7d2-a52bcaf2474a)           | Children's Day     | ![image](https://github.com/user-attachments/assets/ed673796-0ef2-4499-aa58-13c02d133fac)          |   Memorial Day          | ![image](https://github.com/user-attachments/assets/c2a5ae35-410c-428b-b439-1095ba0cb6f2)      |
-| Chuseok (Korean Thanksgiving)     |   ![image](https://github.com/user-attachments/assets/b4ae729a-ab8c-4fba-9cdf-4dff6c742804)    | National Foundation Day       |  ![image](https://github.com/user-attachments/assets/db65b84d-99be-4ec9-bc91-8b5b6d812522)         |    Hangeul Day        |  ![image](https://github.com/user-attachments/assets/40da8743-d60d-416b-9878-25cc3e4bc97b)         |
-| Christmas         |   ![image](https://github.com/user-attachments/assets/ef67324b-3b13-482b-8696-23da73d8e116)                                                             |
-
+|                                                                |                                                                 |                                                                |
+| :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------: |
+year of blue dragon  | ![image](https://github.com/user-attachments/assets/50814ae5-93ed-4fbb-b654-5a555594c946)    
+ start of semester      |  ![image](https://github.com/user-attachments/assets/3dcc77bc-e824-40e3-a82a-15e274c49aa4)     
+Seollal | ![image](https://github.com/user-attachments/assets/ec3a404b-a8b0-4ec0-b71a-65013e187f79)
+Samiljeol | ![image](https://github.com/user-attachments/assets/7915edfd-3fd9-46a9-b7d2-a52bcaf2474a)
+Children's Day | ![image](https://github.com/user-attachments/assets/ed673796-0ef2-4499-aa58-13c02d133fac)
+Memorial Day | ![image](https://github.com/user-attachments/assets/c2a5ae35-410c-428b-b439-1095ba0cb6f2)
+Chuseok | ![image](https://github.com/user-attachments/assets/b4ae729a-ab8c-4fba-9cdf-4dff6c742804)
+ National Foundation Day | ![image](https://github.com/user-attachments/assets/db65b84d-99be-4ec9-bc91-8b5b6d812522)
+ Hangul Day | ![image](https://github.com/user-attachments/assets/40da8743-d60d-416b-9878-25cc3e4bc97b)
+Christmas | ![image](https://github.com/user-attachments/assets/ef67324b-3b13-482b-8696-23da73d8e116)
 #### Banners
 
 |                                                         |                                                              |
