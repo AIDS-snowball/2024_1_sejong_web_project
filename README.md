@@ -115,17 +115,16 @@
 #### 로고
 |                                                                |                                                                 |                                                                |
 | :----------------------------------------------------------------: | :-----------------------------------------------------------------: | :----------------------------------------------------------------: |
-| ![image](https://github.com/user-attachments/assets/50814ae5-93ed-4fbb-b654-5a555594c946)
-청룡의 해  |     ![image](https://github.com/user-attachments/assets/3dcc77bc-e824-40e3-a82a-15e274c49aa4)
- 학기 시작      |       ![image](https://github.com/user-attachments/assets/ec3a404b-a8b0-4ec0-b71a-65013e187f79)
- 설날        |    ![image](https://github.com/user-attachments/assets/7915edfd-3fd9-46a9-b7d2-a52bcaf2474a)
- 삼일절       |    ![image](https://github.com/user-attachments/assets/ed673796-0ef2-4499-aa58-13c02d133fac)
- 어린이날     |     ![image](https://github.com/user-attachments/assets/c2a5ae35-410c-428b-b439-1095ba0cb6f2)
- 현충일     |      ![image](https://github.com/user-attachments/assets/b4ae729a-ab8c-4fba-9cdf-4dff6c742804)
-추석         |      ![image](https://github.com/user-attachments/assets/db65b84d-99be-4ec9-bc91-8b5b6d812522)
- 개천절       |      ![image](https://github.com/user-attachments/assets/40da8743-d60d-416b-9878-25cc3e4bc97b)
-  한글날       |    ![image](https://github.com/user-attachments/assets/ef67324b-3b13-482b-8696-23da73d8e116)
-크리스마스     |                                                                     |
+청룡의 해  | ![image](https://github.com/user-attachments/assets/50814ae5-93ed-4fbb-b654-5a555594c946)    
+ 학기 시작      |  ![image](https://github.com/user-attachments/assets/3dcc77bc-e824-40e3-a82a-15e274c49aa4)     
+ 설날        | ![image](https://github.com/user-attachments/assets/ec3a404b-a8b0-4ec0-b71a-65013e187f79)   
+ 삼일절       |  ![image](https://github.com/user-attachments/assets/7915edfd-3fd9-46a9-b7d2-a52bcaf2474a) 
+ 어린이날     |   ![image](https://github.com/user-attachments/assets/ed673796-0ef2-4499-aa58-13c02d133fac)   
+ 현충일     |   ![image](https://github.com/user-attachments/assets/c2a5ae35-410c-428b-b439-1095ba0cb6f2)   
+추석         |   ![image](https://github.com/user-attachments/assets/b4ae729a-ab8c-4fba-9cdf-4dff6c742804)   
+ 개천절       |    ![image](https://github.com/user-attachments/assets/db65b84d-99be-4ec9-bc91-8b5b6d812522)  
+  한글날       |  ![image](https://github.com/user-attachments/assets/40da8743-d60d-416b-9878-25cc3e4bc97b)  
+크리스마스     |   ![image](https://github.com/user-attachments/assets/ef67324b-3b13-482b-8696-23da73d8e116)                                                                  |
 
 #### 배너
 |                                                     |                                                   |
