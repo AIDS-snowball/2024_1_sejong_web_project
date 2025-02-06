@@ -4,7 +4,7 @@
 
 ## 1. 프로젝트 개요
 
-본 프로젝트는 기존 세종대학교 집현캠퍼스 웹 서비스를 개선하여 사용자 편의성을 높이는 것을 목표로 다. 얼굴 보안 인식 로그인 시스템, 강의 요약 기능, 기념일에 따라 바뀌는 로고 및 다양한 배너를 제공하여 사용자에게 더 편리하고 유용한 기능을 제공할 수 있다.
+본 프로젝트는 기존 세종대학교 집현캠퍼스 웹 서비스를 개선하여 사용자 편의성을 높이는 방법을 제시하는 것을 목표로 한다. 얼굴 보안 인식 로그인 시스템, 강의 요약 기능, 기념일에 따라 바뀌는 로고 및 다양한 배너를 제공하여 사용자에게 더 편리하고 유용한 기능을 제공할 수 있다.
 
 ## 2. 팀원 및 역할 분담
 
@@ -145,16 +145,18 @@
 *   강의 요약 기능으로 학습 효율 증대
 *   기념일별 로고 및 배너로 시각적 재미 제공, 학교 소식 전달
 
-## 8. 향후 계획 (Optional)
+## 8. 향후 계획 
 * STT 한국어 인식률 개선
 * 강의 요약 기능 고도화
 * UI/UX 개선
 
-## 9. 참고 자료 (Optional)
+## 9. 참고 자료 
 *   [MoviePy documentation](https://zulko.github.io/moviepy/)
 *   [SpeechRecognition documentation](https://pypi.org/project/SpeechRecognition/)
 *   [KoBART GitHub](https://github.com/SKT-Brain/KoBART)
 * [AI Hub 데이터셋](https://www.aihub.or.kr/)
 
+## 10. 프로젝트 파일
+https://drive.google.com/file/d/1p0GZTfjaLX204CJcR64Sfdo_YRLNgrET/view?usp=sharing
 ---
 
