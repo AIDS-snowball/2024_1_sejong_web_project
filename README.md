@@ -18,7 +18,7 @@
 
 ## 3. 학습 목표
 
-*   얼굴 인식 로그인 시스템 구축 (Siam Network, MobileNet 등 학습) [코드 바로기가](./face_recognition)
+*   얼굴 인식 로그인 시스템 구축 (Siam Network, MobileNet 등 학습) [코드 바로가기](./face_recognition)
 *   새로운 집현 캠퍼스 로고 및 배너 디자인 (Photoshop 기능 학습)
 *   웹 페이지 제작 (Django, HTML, CSS 학습)
 *   강의 요약 기능 구현 (STT, KoBERT, KoBART 학습, AI Hub 데이터셋 fine-tuning)
